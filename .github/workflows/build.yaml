@@ -1,4 +1,4 @@
-herename: Build Cromite
+name: Build Cromite
 permissions:
   actions: none
   checks: none
